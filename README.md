@@ -22,7 +22,7 @@ Start with:
 The BMO character from Adventure Time will then simply look at you as
 you move:
 
-![BMO!](https://raw.github.com/maxime-tournier/bmo/master/screenshot.png)
+![BMO!](https://raw.github.com/maxime-tournier/bmo/master/screenshot.jpg)
 
 
 
