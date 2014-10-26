@@ -20,9 +20,9 @@ Start with:
 ```
 
 The BMO character from Adventure Time will then simply look at you as
-you move:
+you move in front of your webcam:
 
 ![BMO!](https://raw.github.com/maxime-tournier/bmo/master/screenshot.jpg)
 
-
+*"who wants to play video games ?"*
 
