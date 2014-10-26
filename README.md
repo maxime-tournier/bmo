@@ -17,7 +17,7 @@ Start with:
 ./run.py
 ```
 
-The BMO character from Adventure Time will then simply looks at you as
+The BMO character from Adventure Time will then simply look at you as
 you move.
 
 
