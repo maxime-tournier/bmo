@@ -1,2 +1,4 @@
 *.pyc
 *~
+/CMT.py
+/util.py
