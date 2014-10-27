@@ -158,7 +158,8 @@ def loop():
 
                 depth = (constant[0] / float( shape[0])) / size
 
-                coords = (coords[0], coords[1], depth)
+                # the webcam is at (0, -0.5)
+                coords = (coords[0], -0.5 + coords[1], depth)
 
 
         # util.draw_keypoints(CMT.tracked_keypoints, im_draw, (255, 255, 255))
